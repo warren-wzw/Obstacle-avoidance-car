@@ -16,8 +16,8 @@
  
 
 ## 项目展示
-* ![](automat1.png)
-* ![](automat2.png)
+* ![](automat1.jpg)
+* ![](automat2.jpg)
  
 
 ##关于作者
